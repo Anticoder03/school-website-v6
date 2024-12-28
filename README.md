@@ -10,9 +10,8 @@ Welcome to the **Gyan Ganga School** website! This project is a hobby project bu
 
 ## 🛠️ Tools and Technologies Used
 
-- **HTML** ![CSS Icon](!(https://svgl.app/library/html5.svg)): Structure of the website.
-- **CSS** ![CSS Icon](!(https://svgl.app/library/css_old.svg))
-: Styling and layout of the website.
+- **HTML** : Structure of the website.
+- **CSS** : Styling and layout of the website.
 - **JavaScript**: Adding interactivity and controlling animations.
 - **GSAP**: Creating smooth animations.
 - **Poppins Font**: Typography for a polished and modern aesthetic.
