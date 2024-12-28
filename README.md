@@ -30,7 +30,11 @@ Welcome to the **Gyan Ganga School** website! This project is a hobby project bu
 
 ## 🖼️ Screenshots
 
-_Add screenshots here to showcase your website visually. If needed, you can use [this guide](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes#adding-images-to-your-readme) to embed images in the README._
+![Home](https://github.com/Anticoder03/school-website-v6/blob/main/snapshort/Screenshot%202024-12-28%20192637.png)
+![Gallary](https://github.com/Anticoder03/school-website-v6/blob/main/snapshort/Screenshot%202024-12-28%20192649.png)
+![About](https://github.com/Anticoder03/school-website-v6/blob/main/snapshort/Screenshot%202024-12-28%20192718.png)
+![Contect & Footer](https://github.com/Anticoder03/school-website-v6/blob/main/snapshort/Screenshot%202024-12-28%20192704.png)
+
 
 ## 🔄 Usage
 
